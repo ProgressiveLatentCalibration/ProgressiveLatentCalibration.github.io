@@ -1,1 +1,1 @@
-# Anonymous ICLR 2026 Submission
+# Progressive Latent Calibration
